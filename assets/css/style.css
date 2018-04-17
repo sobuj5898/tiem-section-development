@@ -1,0 +1,108 @@
+/* Base CSS */
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+a:focus { outline: 0 solid }
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700;
+}
+body {
+
+}
+a:hover { text-decoration: none }
+
+.section-padding {
+    padding:  80px 0;
+}
+
+.section-heading {
+    text-align:  center;
+    margin-bottom:  70px;
+}
+.section-heading p {
+    font-size: 20px;
+    color:  #9D9D9D;
+}
+.section-heading h2 {
+    font-size: 35px;
+}
+.social-media-icon {
+    background:  #59A83C;
+    text-align:  center;
+    padding: 10px;
+    height:  50px;
+    width: 220px;
+    margin-left: 22px;
+    margin-top: -28px;
+    border-radius: 4px;
+    position:  relative;
+}
+
+.social-media-icon i.fa {
+    color:  #fff;
+    padding: 6px 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.single-team-item img {
+    border: 2px solid #ddd;
+}
+i.fa.fa-facebook:hover {
+    background:  #fff;
+    color: #4367B0;
+}
+
+i.fa.fa-twitter:hover {
+    background:  #fff;
+    color: #22ABFD;
+}
+
+i.fa.fa-youtube:hover {
+    background: #f10b0b;
+    color: #f7f1f1;
+}
+
+i.fa.fa-linkedin:hover {
+    background: #0573B1;
+    color:  #fff;
+}
+.single-team-item h4 {
+    text-align:  center;
+    font-weight:  700;
+    margin-top: 30px;
+}
+
+.single-team-item h4 span {
+    color:  #57A73E;
+    display:  block;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 8px;
+}
+
+
+
+
+
+
